@@ -18,6 +18,7 @@ Then, in setup launch:
 This will attach the servos and initialize Serial port at 19200 bauds.
 
 Then call:
+  
     your-spider-name.moveToInit();
 
 This will put the servos in their initial position
